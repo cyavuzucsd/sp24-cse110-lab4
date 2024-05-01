@@ -59,3 +59,9 @@ False because true equals to 1 numerically
 F. true === Boolean(2) = true
 Boolean will return true unless the parameter is NaN, undefined, 0 or null. Hence true.
 
+15. == is the equal operator. It compares the value of the items on both sides. Like '4' == 4 is the same so true. === is the strictly equals operator. It compares the items on both sides with their value and their type. So '4' === 4 is not true it is false.
+16. The file included for part2-question16.js
+17. It will be [2, 4, 6]. In each iteration each index is two timed because of the variable calling the doSomething function.
+18. The file included for part2-question18.js
+19. 1 4 3 2
+
